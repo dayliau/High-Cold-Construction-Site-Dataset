@@ -1,0 +1,16 @@
+{
+    "event_id": "event_03",
+    "event_type": "worker_fall",
+    "label": 1,
+    "severity": "high",
+    "modalities": {
+        "vision": true,
+        "audio": true,
+        "sensor": true
+    },
+    "time_range": {
+        "start": 30,
+        "end": 34
+    },
+    "description": "Worker slips on an icy surface, causing a sudden fall event."
+}
