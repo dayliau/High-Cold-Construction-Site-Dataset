@@ -1,0 +1,16 @@
+{
+    "event_id": "event_06",
+    "event_type": "normal_operation",
+    "label": 0,
+    "severity": "none",
+    "modalities": {
+        "vision": true,
+        "audio": true,
+        "sensor": true
+    },
+    "time_range": {
+        "start": -1,
+        "end": -1
+    },
+    "description": "Normal construction activities without any detected anomaly."
+}
