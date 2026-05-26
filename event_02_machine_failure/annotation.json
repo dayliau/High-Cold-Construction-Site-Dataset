@@ -1,0 +1,16 @@
+{
+    "event_id": "event_02",
+    "event_type": "machinery_failure",
+    "label": 1,
+    "severity": "medium",
+    "modalities": {
+        "vision": true,
+        "audio": true,
+        "sensor": true
+    },
+    "time_range": {
+        "start": 45,
+        "end": 60
+    },
+    "description": "Construction machinery experiences abnormal vibration and shutdown due to low-temperature conditions."
+}
