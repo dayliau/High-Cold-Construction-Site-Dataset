@@ -1,0 +1,16 @@
+{
+    "event_id": "event_05",
+    "event_type": "fire_smoke",
+    "label": 1,
+    "severity": "critical",
+    "modalities": {
+        "vision": true,
+        "audio": true,
+        "sensor": true
+    },
+    "time_range": {
+        "start": 40,
+        "end": 60
+    },
+    "description": "Smoke concentration and carbon monoxide levels increase rapidly due to an electrical fire."
+}
