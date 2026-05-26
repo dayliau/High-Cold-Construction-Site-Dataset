@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_04_sample_001",
+    "time_range":  {
+                       "start":  20,
+                       "end":  60
+                   },
+    "description":  "Snowfall and wind reduce visibility across the construction site.",
+    "label":  1,
+    "severity":  "medium",
+    "event_type":  "blizzard_occlusion"
+}

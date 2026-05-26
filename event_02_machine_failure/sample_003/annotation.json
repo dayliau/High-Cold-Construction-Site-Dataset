@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_02_sample_003",
+    "time_range":  {
+                       "start":  40,
+                       "end":  60
+                   },
+    "description":  "Severe machinery malfunction with rapid vibration growth and system shutdown risk.",
+    "label":  1,
+    "severity":  "high",
+    "event_type":  "machinery_failure"
+}

@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_01_sample_003",
+    "time_range":  {
+                       "start":  35,
+                       "end":  60
+                   },
+    "description":  "Severe freeze-thaw damage causing significant structural cracking.",
+    "label":  1,
+    "severity":  "high",
+    "event_type":  "structural_freeze"
+}

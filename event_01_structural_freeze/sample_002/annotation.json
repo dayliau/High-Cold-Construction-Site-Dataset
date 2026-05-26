@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_01_sample_002",
+    "time_range":  {
+                       "start":  45,
+                       "end":  60
+                   },
+    "description":  "Minor freeze-induced structural cracking caused by moderate stress accumulation.",
+    "label":  1,
+    "severity":  "low",
+    "event_type":  "structural_freeze"
+}

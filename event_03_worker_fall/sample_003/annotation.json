@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_03_sample_003",
+    "time_range":  {
+                       "start":  29,
+                       "end":  35
+                   },
+    "description":  "Severe fall event resulting from slippery frozen ground.",
+    "label":  1,
+    "severity":  "high",
+    "event_type":  "worker_fall"
+}

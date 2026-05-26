@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_05_sample_001",
+    "time_range":  {
+                       "start":  40,
+                       "end":  60
+                   },
+    "description":  "Smoke and carbon monoxide levels rise due to electrical fire.",
+    "label":  1,
+    "severity":  "critical",
+    "event_type":  "fire_smoke"
+}

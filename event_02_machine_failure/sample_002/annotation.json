@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_02_sample_002",
+    "time_range":  {
+                       "start":  48,
+                       "end":  60
+                   },
+    "description":  "Minor low-temperature mechanical anomaly with moderate vibration increase.",
+    "label":  1,
+    "severity":  "low",
+    "event_type":  "machinery_failure"
+}

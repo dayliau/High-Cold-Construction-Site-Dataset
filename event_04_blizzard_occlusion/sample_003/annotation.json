@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_04_sample_003",
+    "time_range":  {
+                       "start":  15,
+                       "end":  60
+                   },
+    "description":  "Severe blizzard conditions causing significant visibility degradation.",
+    "label":  1,
+    "severity":  "high",
+    "event_type":  "blizzard_occlusion"
+}

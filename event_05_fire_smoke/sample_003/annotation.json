@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_05_sample_003",
+    "time_range":  {
+                       "start":  35,
+                       "end":  60
+                   },
+    "description":  "Severe fire event with rapidly increasing smoke and carbon monoxide concentration.",
+    "label":  1,
+    "severity":  "critical",
+    "event_type":  "fire_smoke"
+}

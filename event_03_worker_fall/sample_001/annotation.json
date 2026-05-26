@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_03_sample_001",
+    "time_range":  {
+                       "start":  30,
+                       "end":  34
+                   },
+    "description":  "Worker slips on an icy surface and falls.",
+    "label":  1,
+    "severity":  "medium",
+    "event_type":  "worker_fall"
+}

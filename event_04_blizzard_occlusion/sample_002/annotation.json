@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_04_sample_002",
+    "time_range":  {
+                       "start":  25,
+                       "end":  60
+                   },
+    "description":  "Moderate blizzard conditions causing partial visual occlusion.",
+    "label":  1,
+    "severity":  "low",
+    "event_type":  "blizzard_occlusion"
+}

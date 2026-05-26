@@ -1,0 +1,11 @@
+﻿{
+    "sample_id":  "event_06_sample_003",
+    "time_range":  {
+                       "start":  -1,
+                       "end":  -1
+                   },
+    "description":  "Routine construction workflow without safety incidents.",
+    "label":  0,
+    "severity":  "none",
+    "event_type":  "normal_operation"
+}
