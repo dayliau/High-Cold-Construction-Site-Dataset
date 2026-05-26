@@ -1,0 +1,16 @@
+{
+    "event_id": "event_01",
+    "event_type": "structural_freeze",
+    "label": 1,
+    "severity": "high",
+    "modalities": {
+        "vision": true,
+        "audio": true,
+        "sensor": true
+    },
+    "time_range": {
+        "start": 40,
+        "end": 60
+    },
+    "description": "Structural stress increases under continuous low-temperature conditions, resulting in freeze-induced cracking."
+}
